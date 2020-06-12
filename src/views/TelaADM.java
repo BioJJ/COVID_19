@@ -76,7 +76,7 @@ public class TelaADM extends javax.swing.JFrame {
         Bt_grau.setBackground(new java.awt.Color(0, 135, 255));
         Bt_grau.setFont(new java.awt.Font("Arial", 0, 20)); // NOI18N
         Bt_grau.setForeground(new java.awt.Color(255, 255, 255));
-        Bt_grau.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/Icone Animal.png"))); // NOI18N
+        Bt_grau.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/Icone Serviço.png"))); // NOI18N
         Bt_grau.setText("Grau");
         Bt_grau.setBorder(null);
         Bt_grau.setPreferredSize(new java.awt.Dimension(250, 121));
